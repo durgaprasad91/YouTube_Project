@@ -1,0 +1,26 @@
+.subscribe-button{
+    border: none;
+    padding: 10px 15px 10px 15px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 50px;
+    background-color: red;
+}
+.is-subscribed{
+    background-color: rgb(240, 240, 240);
+    color: black;
+}
+body{
+    font-family: Arial;
+    justify-content: center;
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+    border:  dotted black;
+    padding: 10px 60px 10px 60px;
+    border-radius: 30px;
+}
